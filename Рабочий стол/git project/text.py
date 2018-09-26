@@ -1,7 +1,4 @@
 # 2018.09.15
-# by Serg Root
-# gmail: serg.kuz375@gmail.com
-# Git: https://github.com/Serg0Root1
 
 from tkinter import *
 from tkinter import messagebox
